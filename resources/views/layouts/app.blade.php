@@ -20,7 +20,8 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #9C27B0;
+            padding: 10px 0;
+            background-color: #000;
             color: white;
             text-align: center;
         }
@@ -43,9 +44,8 @@
     <div class="text-center footer">
 
         <h4>The writer needs a job</h4>
-        <h4>+234 806 605 6233</h4>
-        <h4>kingsconsult001@gmail.com</h4>
-        <h4>Github: www.github.com/kingsconsult</h4>
+        <h4>cssf998811@gmail.com</h4>
+        <h4>Github: www.github.com/cssf998811</h4>
 
     </div>
 </body>
